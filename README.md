@@ -11,24 +11,36 @@ Oprogramowanie zostało napisane w języku Python.
 
 # 2.	Wymagania
 •	System operacyjny MS Windows 10/11
+
 •	Python 3.9.12
+
 •	Biblioteki Python:
+
   o	matplotlib 3.3.4
+  
   o	customtkinter 5.0.5
+  
   o	numpy 1.22.4
+  
   o	opencv_python 4.6.0.66
+  
   o	Pillow 9.4.0
 
 # 3. Funkcje aplikacji
 •	Otwieranie obrazów
+
 •	Możliwość wyboru koloru ramek
+
 •	Możliwość wyboru grubości ramek
+
 •	Znajdowanie wypukłych symboli
+
 •	Zapisywanie obrazów z dokonanymi zmianami
 
 # 4. Aplikacja
 Tak prezentuje się główne okno aplikacji
-![[alt text](https://github.com/pachnotka/Wyszukiwarka-znakow-wypuklych/blob/main/Obrazy%20instrukcja/Obraz1.png?raw=true)]
+
+![alt text](https://github.com/pachnotka/Wyszukiwarka-znakow-wypuklych/blob/main/Obrazy%20instrukcja/Obraz1.png?raw=true)
  
 # 4.1. Guziki typu ‘radio’
 Pozwalają zmienić wygląd ramek zaznaczających wypukłości
