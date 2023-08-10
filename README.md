@@ -44,15 +44,25 @@ Tak prezentuje się główne okno aplikacji
  
 # 4.1. Guziki typu ‘radio’
 Pozwalają zmienić wygląd ramek zaznaczających wypukłości
+
+![alt text](https://github.com/pachnotka/Wyszukiwarka-znakow-wypuklych/blob/main/Obrazy%20instrukcja/Obraz2.png?raw=true)
  
 # 4.2. Guzik ‘Otwórz obraz’
 Wyświetla okno systemowe gdzie można wybrać obraz.
+
+![alt text](https://github.com/pachnotka/Wyszukiwarka-znakow-wypuklych/blob/main/Obrazy%20instrukcja/Obraz3.png?raw=true)
  
 Po wybraniu obrazu zostanie on wczytany i wyświetlony w programie
- 
+
+![alt text](https://github.com/pachnotka/Wyszukiwarka-znakow-wypuklych/blob/main/Obrazy%20instrukcja/Obraz4.png?raw=true)
+ 
 # 4.3. Guzik ‘Znajdź wybrzuszenia’
 Za pomocą zadanej ramki zaznacza wszystkie wypukłe symbole na obrazie
+
+![alt text](https://github.com/pachnotka/Wyszukiwarka-znakow-wypuklych/blob/main/Obrazy%20instrukcja/Obraz5.png?raw=true)
  
 # 4.4. Guzik ‘Zapisz obraz wynikowy’
 Wyświetla okno systemowe gdzie można wybrać lokalizację, nazwę i rozszerzenie obrazu z nałożonymi ramkami.
+
+![alt text](https://github.com/pachnotka/Wyszukiwarka-znakow-wypuklych/blob/main/Obrazy%20instrukcja/Obraz6.png?raw=true)
  
