@@ -16,7 +16,7 @@ Oprogramowanie zostało napisane w języku Python.
 
 •	Biblioteki Python:
 
-  o	matplotlib 3.3.4
+    o	matplotlib 3.3.4
   
   o	customtkinter 5.0.5
   
