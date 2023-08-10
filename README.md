@@ -16,15 +16,15 @@ Oprogramowanie zostało napisane w języku Python.
 
 •	Biblioteki Python:
 
-    o	matplotlib 3.3.4
-  
-  o	customtkinter 5.0.5
-  
-  o	numpy 1.22.4
-  
-  o	opencv_python 4.6.0.66
-  
-  o	Pillow 9.4.0
+      o	matplotlib 3.3.4
+      
+      o	customtkinter 5.0.5
+      
+      o	numpy 1.22.4
+      
+      o	opencv_python 4.6.0.66
+      
+      o	Pillow 9.4.0
 
 # 3. Funkcje aplikacji
 •	Otwieranie obrazów
