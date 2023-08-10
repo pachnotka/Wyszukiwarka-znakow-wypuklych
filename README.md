@@ -10,8 +10,6 @@ Program posiada intuicyjny interfejs użytkownika.
 Oprogramowanie zostało napisane w języku Python.
 
 # 2.	Wymagania
-•	System operacyjny MS Windows 10/11
-
 •	Python 3.9.12
 
 •	Biblioteki Python:
